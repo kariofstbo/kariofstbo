@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kari!
 #### I am a 21 year old technology student.
-I am currently on my second year on a bachelor in language technology at the University of Oslo. I am also working as a group teacher in a first year class; introduction to data technology.
+I am currently on my second year on a bachelor´s degree in language technology at the University of Oslo. I also work part time as a group techer in a first year subject; introduction to data technology.
 
 Skills: Java | Python
 
