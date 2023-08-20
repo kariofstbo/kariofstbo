@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Kari!
+### Hi there 👋, my name is Kari!
 #### I am a 21 year old technology student.
 I am currently on my second year on a bachelor in language technology at the University of Oslo. I also work as a group teacher in introduction to data technology.
 
